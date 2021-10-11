@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harafah97
 - 👀 I’m interested in software development and open-source projects.
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python and django
 - 💞️ I’m looking to collaborate on any Java projects.
 - 📫 How to reach me harafah97@gmail.com
 
